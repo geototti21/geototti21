@@ -1,6 +1,6 @@
 ## 🏷️ geototti21 
 
-**geototti21** is an engineer named Ioannis, Ioannis is deployed in London, and at the moment works as a Senior SRE at [@Paddle](https://github.com/PaddleHQ)
+**geototti21** is an engineer named Ioannis, Ioannis is deployed in London, and at the moment works as a SRE Team Lead at [@Paddle](https://github.com/PaddleHQ)
 
 #### ⭐ Key Features
 * Gopher - Loves working with Go
