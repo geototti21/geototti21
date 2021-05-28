@@ -21,6 +21,7 @@
 * [Medium stories](https://geototti21.medium.com/)
 
 #### 🎥 Live Demos
+* [SLO: From Nothing.. to Production](https://www.youtube.com/watch?v=2HaW7nNKsjE) @ [SLOConf](https://www.sloconf.com/) (May 2021)
 * [Terrraform in Automation](https://www.youtube.com/watch?v=QtWBVF_2FcY&list=PLGIluf8yE9Wg0-ifXxRTZKGBJi9V2n094&index=4) @ Techtree (April 2021)
 * [Incident Management](https://twitter.com/OrbisConsult/status/1364561057876905987) @ London SRE Meetup (February 2021)
 
