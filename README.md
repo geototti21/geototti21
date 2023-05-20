@@ -27,6 +27,7 @@
 * [Incident Management](https://twitter.com/OrbisConsult/status/1364561057876905987) @ London SRE Meetup (February 2021)
 * [SRE and Empathy](https://www.youtube.com/watch?v=yaaPBnDkLF8&t=157s) @ SLOConf Monthly Meetup (February 2022)
 * [SLIs the Hard Way](https://www.youtube.com/watch?v=_-75ms9UJfQ&list=PLLNq9CBV7AFwkXvYmjPPIQlRDVwTmacEK&index=44) @ [SLOConf 2022](https://www.sloconf.com/) (May 2022)
+* [How you SLO your SLOs? ](https://www.youtube.com/watch?v=vfsAnLR1WLo&ab_channel=Nobl9) @ [SLOConf 2023](https://www.sloconf.com/) (May 2023)
 
 
 Thanks for reading, here is a 🍰 for you!
