@@ -1,6 +1,6 @@
 ## 🏷️ geototti21 - Ioannis Georgoulas
 
-👋 Hey, I am Ioannis, I am based in ☀️ London and at the moment work as Director of SRE [@Paddle](https://github.com/PaddleHQ)
+👋 Hey, I am Ioannis, I am based in ☀️ Edinburgh  ☀️ and at the moment work as Director of SRE [@Paddle](https://github.com/PaddleHQ)
 
 #### ⭐ Key Features
 * Gopher - Loves working with Go
